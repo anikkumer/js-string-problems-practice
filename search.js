@@ -1,6 +1,6 @@
 // includes use:---------------
 
-const lyrics = 'Tumi bondhu kala Pakhi ami jeno ki.bosonto kale tomai bolte pari ni. sada sada kala kala'
+const lyrics = 'Tumi bondhu kala Pakhi ami jeno ki.bosonto kale tomai bolte pari ni.kala kala  sada sada'
 
 const searchString = 'Pakhi';
 // const doesExist = lyrics.includes('pakhi');
